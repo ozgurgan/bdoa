@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/java,gradle,kotlin,androidstudio
 # Edit at https://www.gitignore.io/?templates=java,gradle,kotlin,androidstudio
@@ -136,15 +137,32 @@ fabric.properties
 # Compiled class file
 
 # Log file
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+>>>>>>> 916db8010c3970fc8eba8f361efedbc49b591c71
 
 # BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
+<<<<<<< HEAD
 
 # Package Files #
 *.jar
 *.nar
+=======
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+>>>>>>> 916db8010c3970fc8eba8f361efedbc49b591c71
 *.zip
 *.tar.gz
 *.rar
